@@ -51,7 +51,20 @@
     height: 100%;
 }
 
+nav{
+    position: absolute;
+    top: 30px;
+    left: 1000px;
+}
 
+nav a{
+    margin-right: 15px;
+    background-color: white;
+    border-radius: 50%;
+    text-decoration: none;
+    vertical-align: middle;
+    padding:10px 13px;
+}
 
 /*________________________________*/
 
