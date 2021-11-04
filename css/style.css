@@ -55,6 +55,7 @@ nav{
     position: fixed;
     top: 30px;
     left: 1000px;
+    z-index: 1001;
 }
 
 nav a{
