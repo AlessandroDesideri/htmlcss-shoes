@@ -52,7 +52,7 @@
 }
 
 nav{
-    position: absolute;
+    position: fixed;
     top: 30px;
     left: 1000px;
 }
